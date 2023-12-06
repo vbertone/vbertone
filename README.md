@@ -14,9 +14,11 @@ Welcome to my GitHub profile. I'm a physicist and software developer with a pass
 
 Explore my academic contributions on [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20bertone%2C%20v&ui-citation-summary=true).
 
+<!--
 ## GitHub Stats
 
 [![Valerio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vbertone&show_icons=true&hide_title=true)](https://github.com/vbertone)
+-->
 
 ## Notable Projects
 
