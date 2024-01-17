@@ -1,14 +1,6 @@
-# Hi, I'm Valerio Bertone! 👋
+# Hi, I'm Valerio Bertone!
 
 Welcome to my GitHub profile. I'm a physicist and software developer with a passion for particle physics and open-source contributions. Below, you'll find information about my academic contributions, coding projects, and more.
-
-## About Me
-
-- 👨‍💻 Physicist and Software Developer
-- 🌐 [LinkedIn](https://www.linkedin.com/in/valerio-bertone-60b87761/)
-- 🌐 [GitHub](https://github.com/vbertone)
-- 🌐 [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20bertone%2C%20v&ui-citation-summary=true)
-- 🌐 [ORCID](https://orcid.org/0000-0003-0148-0272)
 
 ## Academic Contributions
 
@@ -29,6 +21,14 @@ Check out some of my notable projects:
 - [MontBlanc](https://github.com/MapCollaboration/MontBlanc): A code devoted to the extraction of collinear distributions.
 - [MAP Collaboration](https://github.com/MapCollaboration): MAP stands for Multi-dimensional Analyses of Partonic distributions and is a pioneering initiative in the field of hadronic physics.
 
+## Contacts and records
+
+- [LinkedIn](https://www.linkedin.com/in/valerio-bertone-60b87761/)
+- [GitHub](https://github.com/vbertone)
+- [Inspire](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20bertone%2C%20v&ui-citation-summary=true)
+- [ORCID](https://orcid.org/0000-0003-0148-0272)
+
+<!--
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/valerio-bertone-60b87761/)
@@ -39,7 +39,6 @@ Feel free to connect with me on LinkedIn or explore my coding projects here on G
 Thanks for stopping by! 😊
 
 
-<!--
 **vbertone/vbertone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
