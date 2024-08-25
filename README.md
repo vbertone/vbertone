@@ -1,6 +1,6 @@
 # Hi, I'm Valerio Bertone!
 
-Welcome to my GitHub profile. I'm a physicist and software developer with a passion for particle physics and open-source contributions. Below, you'll find information about my academic contributions, coding projects, and more.
+Welcome to my GitHub profile. I am a physicist and software developer lent to particle physics and open-source code development. Below, you will find information about my academic contributions, coding projects, and more.
 
 ## Academic Contributions
 
